@@ -1,0 +1,18 @@
+.card{
+    height:300px;
+    width: 300px;
+    border:2px solid black
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-wrap: wrap;
+    gap:20px
+}
+.btn-primary{
+    background-color: lightseagreen;
+
+padding: 12px;
+border-radius: 10%;
+}
